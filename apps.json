@@ -45,6 +45,15 @@
       "appStoreURL": "https://apps.apple.com/app/id6457363081",
       "platform": "iOS",
       "bundleID": "iInterviewBell.addame.com"
+    },
+    {
+      "id": "6761067019",
+      "name": "Photo Cleanup",
+      "tagline": "Find & remove duplicate photos",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/87/85/1387857c-13d0-c230-9e97-597b39f0a253/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "appStoreURL": "https://apps.apple.com/us/app/photo-cleanup-duplicates/id6761067019",
+      "platform": "iOS",
+      "bundleID": "app.byalif.photocleanup"
     }
   ]
 }
