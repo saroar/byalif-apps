@@ -54,6 +54,24 @@
       "appStoreURL": "https://apps.apple.com/us/app/photo-cleanup-duplicates/id6761067019",
       "platform": "iOS",
       "bundleID": "app.byalif.photocleanup"
+    },
+    {
+      "id": "6773268130",
+      "name": "Nerva",
+      "tagline": "Calm breathing for sleep & focus",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/72/36/cd723677-d9db-f9bf-67eb-f0c267ce1a8f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "appStoreURL": "https://apps.apple.com/app/id6773268130",
+      "platform": "iOS",
+      "bundleID": "com.byalif.nerva"
+    },
+    {
+      "id": "1619504857",
+      "name": "Vozla",
+      "tagline": "Learn a new word every day",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/33/6d/b8336da9-3a2d-bcc9-d773-0ae7814e901d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "appStoreURL": "https://apps.apple.com/app/id1619504857",
+      "platform": "iOS",
+      "bundleID": "com.addame.Word300"
     }
   ]
 }
