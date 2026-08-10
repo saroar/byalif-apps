@@ -65,6 +65,15 @@
       "bundleID": "com.byalif.nerva"
     },
     {
+      "id": "6792056733",
+      "name": "ClosetKind",
+      "tagline": "Daily outfits from your closet",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/22/93/bf229362-ab83-ded8-67a9-40871f6398fe/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
+      "appStoreURL": "https://apps.apple.com/us/app/closetkind-outfit-planner/id6792056733",
+      "platform": "iOS",
+      "bundleID": "com.byalif.closetkind"
+    },
+    {
       "id": "1619504857",
       "name": "Vozla",
       "tagline": "Learn a new word every day",
